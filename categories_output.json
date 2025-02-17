@@ -1,0 +1,3295 @@
+[
+    {
+        "id": 12,
+        "name": "Aceite, especias y salsas",
+        "subcategories": [
+            {
+                "id": 112,
+                "name": "Aceite, vinagre y sal",
+                "subcategories": [
+                    {
+                        "id": 420,
+                        "name": "Aceite de oliva",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 421,
+                        "name": "Aceite de girasol, semillas y ma\u00edz",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 422,
+                        "name": "Vinagre y otros aderezos",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 424,
+                        "name": "Sal y bicarbonato",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 115,
+                "name": "Especias",
+                "subcategories": [
+                    {
+                        "id": 425,
+                        "name": "Hierbas",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 840,
+                        "name": "Colorante y piment\u00f3n",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 841,
+                        "name": "Pimienta",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 431,
+                        "name": "Otras especias",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 430,
+                        "name": "Sazonadores",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 116,
+                "name": "Mayonesa, ketchup y mostaza",
+                "subcategories": [
+                    {
+                        "id": 432,
+                        "name": "Mayonesa",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 433,
+                        "name": "Ketchup",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 793,
+                        "name": "Mostaza",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 792,
+                        "name": "Allioli",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 117,
+                "name": "Otras salsas",
+                "subcategories": [
+                    {
+                        "id": 435,
+                        "name": "Tomate frito",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 843,
+                        "name": "Salsas para carnes",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 842,
+                        "name": "Salsas para pasta",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 844,
+                        "name": "Salsas orientales",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 440,
+                        "name": "Otras salsas",
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Agua y refrescos",
+        "subcategories": [
+            {
+                "id": 156,
+                "name": "Agua",
+                "subcategories": [
+                    {
+                        "id": 525,
+                        "name": "Agua sin gas",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 528,
+                        "name": "Agua con gas",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 529,
+                        "name": "Gaseosa",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 163,
+                "name": "Isot\u00f3nico y energ\u00e9tico",
+                "subcategories": [
+                    {
+                        "id": 548,
+                        "name": "Isot\u00f3nico",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 540,
+                        "name": "Energ\u00e9tico",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 158,
+                "name": "Refresco de cola",
+                "subcategories": [
+                    {
+                        "id": 530,
+                        "name": "Cola cl\u00e1sica",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 535,
+                        "name": "Cola zero",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 534,
+                        "name": "Cola sin cafe\u00edna",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 159,
+                "name": "Refresco de naranja y de lim\u00f3n",
+                "subcategories": [
+                    {
+                        "id": 539,
+                        "name": "Lim\u00f3n",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 794,
+                        "name": "Lima lim\u00f3n",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 537,
+                        "name": "Naranja",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 161,
+                "name": "T\u00f3nica y bitter",
+                "subcategories": [
+                    {
+                        "id": 541,
+                        "name": "T\u00f3nica y bitter",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 162,
+                "name": "Refresco de t\u00e9 y sin gas",
+                "subcategories": [
+                    {
+                        "id": 544,
+                        "name": "T\u00e9",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 546,
+                        "name": "Otros refrescos sin gas",
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Aperitivos",
+        "subcategories": [
+            {
+                "id": 135,
+                "name": "Aceitunas y encurtidos",
+                "subcategories": [
+                    {
+                        "id": 484,
+                        "name": "Aceitunas verdes",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 486,
+                        "name": "Aceitunas negras",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 488,
+                        "name": "C\u00f3ctel y banderillas",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 489,
+                        "name": "Pepinillos y otros encurtidos",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 133,
+                "name": "Frutos secos y fruta desecada",
+                "subcategories": [
+                    {
+                        "id": 479,
+                        "name": "Frutos secos",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 846,
+                        "name": "Cocktails",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 483,
+                        "name": "Fruta desecada",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 132,
+                "name": "Patatas fritas y snacks",
+                "subcategories": [
+                    {
+                        "id": 474,
+                        "name": "Patatas fritas",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 475,
+                        "name": "Snacks",
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Arroz, legumbres y pasta",
+        "subcategories": [
+            {
+                "id": 118,
+                "name": "Arroz",
+                "subcategories": [
+                    {
+                        "id": 441,
+                        "name": "Arroz",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 121,
+                "name": "Legumbres",
+                "subcategories": [
+                    {
+                        "id": 801,
+                        "name": "Garbanzos",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 802,
+                        "name": "Alubias",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 803,
+                        "name": "Lentejas y otros",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 120,
+                "name": "Pasta y fideos",
+                "subcategories": [
+                    {
+                        "id": 442,
+                        "name": "Fideos",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 443,
+                        "name": "Macarrones, pajaritas y h\u00e9lices",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 444,
+                        "name": "Spaghetti y tallarines",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 446,
+                        "name": "Pasta rellena",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 447,
+                        "name": "Lasa\u00f1a y canelones",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 800,
+                        "name": "Fideos orientales",
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Az\u00facar, caramelos y chocolate",
+        "subcategories": [
+            {
+                "id": 89,
+                "name": "Az\u00facar y edulcorante",
+                "subcategories": [
+                    {
+                        "id": 378,
+                        "name": "Az\u00facar",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 819,
+                        "name": "Edulcorante y otros",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 95,
+                "name": "Chicles y caramelos",
+                "subcategories": [
+                    {
+                        "id": 389,
+                        "name": "Chicles",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 394,
+                        "name": "Caramelos",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 92,
+                "name": "Chocolate",
+                "subcategories": [
+                    {
+                        "id": 382,
+                        "name": "Chocolate negro",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 381,
+                        "name": "Chocolate con leche",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 383,
+                        "name": "Chocolate blanco",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 386,
+                        "name": "Chocolatinas",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 804,
+                        "name": "Bombones",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 388,
+                        "name": "Cremas de untar",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 97,
+                "name": "Golosinas",
+                "subcategories": [
+                    {
+                        "id": 395,
+                        "name": "Golosinas",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 90,
+                "name": "Mermelada y miel",
+                "subcategories": [
+                    {
+                        "id": 379,
+                        "name": "Mermelada",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 380,
+                        "name": "Miel",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 818,
+                        "name": "Confitura y otros",
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Beb\u00e9",
+        "subcategories": [
+            {
+                "id": 216,
+                "name": "Alimentaci\u00f3n infantil",
+                "subcategories": [
+                    {
+                        "id": 691,
+                        "name": "Tarritos salados",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 693,
+                        "name": "Tarritos de fruta",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 805,
+                        "name": "Yogures y postres",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 689,
+                        "name": "Leche",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 820,
+                        "name": "Leche en polvo",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 690,
+                        "name": "Papillas",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 219,
+                "name": "Biber\u00f3n y chupete",
+                "subcategories": [
+                    {
+                        "id": 707,
+                        "name": "Biber\u00f3n",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 708,
+                        "name": "Chupete",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 218,
+                "name": "Higiene y cuidado",
+                "subcategories": [
+                    {
+                        "id": 703,
+                        "name": "Champ\u00fa y jab\u00f3n",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 704,
+                        "name": "Aceite y crema",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 705,
+                        "name": "Colonia",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 706,
+                        "name": "Accesorios",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 217,
+                "name": "Toallitas y pa\u00f1ales",
+                "subcategories": [
+                    {
+                        "id": 695,
+                        "name": "Toallitas",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 698,
+                        "name": "Pa\u00f1al talla de 0 a 3",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 699,
+                        "name": "Pa\u00f1al talla de 4 a XL",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 702,
+                        "name": "Ba\u00f1ador y braguita",
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Bodega",
+        "subcategories": [
+            {
+                "id": 164,
+                "name": "Cerveza",
+                "subcategories": [
+                    {
+                        "id": 549,
+                        "name": "Cerveza lata",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 550,
+                        "name": "Cerveza botella y botell\u00edn",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 552,
+                        "name": "Combinado de cerveza",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 166,
+                "name": "Cerveza sin alcohol",
+                "subcategories": [
+                    {
+                        "id": 556,
+                        "name": "Cerveza botella y botell\u00edn",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 555,
+                        "name": "Cerveza lata",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 181,
+                "name": "Licores",
+                "subcategories": [
+                    {
+                        "id": 589,
+                        "name": "Vermouth y aperitivos",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 586,
+                        "name": "Ginebra",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 798,
+                        "name": "Brandy",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 584,
+                        "name": "Whisky",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 588,
+                        "name": "Ron",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 593,
+                        "name": "Cremas",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 797,
+                        "name": "Vodka",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 590,
+                        "name": "An\u00eds",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 592,
+                        "name": "Otros licores",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 594,
+                        "name": "Licores sin alcohol",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 174,
+                "name": "Sidra y cava",
+                "subcategories": [
+                    {
+                        "id": 583,
+                        "name": "Sidra",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 795,
+                        "name": "Cava brut",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 580,
+                        "name": "Cava semi seco",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 168,
+                "name": "Tinto de verano y sangr\u00eda",
+                "subcategories": [
+                    {
+                        "id": 561,
+                        "name": "Tinto de verano y sangr\u00eda",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 170,
+                "name": "Vino blanco",
+                "subcategories": [
+                    {
+                        "id": 558,
+                        "name": "Vino blanco de mesa",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 571,
+                        "name": "Rioja y otras denominaciones",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 570,
+                        "name": "Rueda",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 791,
+                        "name": "Vinos semidulces",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 578,
+                        "name": "Vinos dulces y mosto",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 173,
+                "name": "Vino lambrusco y espumoso",
+                "subcategories": [
+                    {
+                        "id": 579,
+                        "name": "Vino lambrusco y espumoso",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 171,
+                "name": "Vino rosado",
+                "subcategories": [
+                    {
+                        "id": 577,
+                        "name": "Vino rosado",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 169,
+                "name": "Vino tinto",
+                "subcategories": [
+                    {
+                        "id": 557,
+                        "name": "Vino tinto de mesa",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 563,
+                        "name": "Rioja",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 566,
+                        "name": "Castilla la Mancha",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 564,
+                        "name": "Ribera del Duero",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 569,
+                        "name": "Otros vinos tintos",
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Cacao, caf\u00e9 e infusiones",
+        "subcategories": [
+            {
+                "id": 86,
+                "name": "Cacao soluble y chocolate a la taza",
+                "subcategories": [
+                    {
+                        "id": 373,
+                        "name": "Cacao soluble",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 374,
+                        "name": "Chocolate a la taza",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 81,
+                "name": "Caf\u00e9 c\u00e1psula y monodosis",
+                "subcategories": [
+                    {
+                        "id": 364,
+                        "name": "C\u00e1psulas compatibles Nespresso",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 365,
+                        "name": "C\u00e1psulas compatibles Dolce gusto",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 366,
+                        "name": "C\u00e1psulas compatibles Tassimo",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 367,
+                        "name": "Monodosis",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 83,
+                "name": "Caf\u00e9 molido y en grano",
+                "subcategories": [
+                    {
+                        "id": 368,
+                        "name": "Caf\u00e9 molido",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 369,
+                        "name": "Caf\u00e9 en grano",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 84,
+                "name": "Caf\u00e9 soluble y otras bebidas",
+                "subcategories": [
+                    {
+                        "id": 370,
+                        "name": "Caf\u00e9 soluble",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 372,
+                        "name": "Bebidas fr\u00edas",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 371,
+                        "name": "Otros",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 88,
+                "name": "T\u00e9 e infusiones",
+                "subcategories": [
+                    {
+                        "id": 376,
+                        "name": "T\u00e9",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 377,
+                        "name": "Infusiones",
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Carne",
+        "subcategories": [
+            {
+                "id": 46,
+                "name": "Arreglos",
+                "subcategories": [
+                    {
+                        "id": 289,
+                        "name": "Arreglos",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 38,
+                "name": "Aves y pollo",
+                "subcategories": [
+                    {
+                        "id": 282,
+                        "name": "Pavo y otras aves",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 281,
+                        "name": "Pollo",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 47,
+                "name": "Carne congelada",
+                "subcategories": [
+                    {
+                        "id": 290,
+                        "name": "Carne congelada",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 37,
+                "name": "Cerdo",
+                "subcategories": [
+                    {
+                        "id": 280,
+                        "name": "Cerdo",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 42,
+                "name": "Conejo y cordero",
+                "subcategories": [
+                    {
+                        "id": 285,
+                        "name": "Conejo",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 284,
+                        "name": "Cordero",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 43,
+                "name": "Embutido",
+                "subcategories": [
+                    {
+                        "id": 286,
+                        "name": "Embutido",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 44,
+                "name": "Hamburguesas y picadas",
+                "subcategories": [
+                    {
+                        "id": 287,
+                        "name": "Hamburguesas",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 783,
+                        "name": "Picadas y otros",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 40,
+                "name": "Vacuno",
+                "subcategories": [
+                    {
+                        "id": 283,
+                        "name": "Vacuno",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 45,
+                "name": "Empanados y elaborados",
+                "subcategories": [
+                    {
+                        "id": 291,
+                        "name": "Empanados y rebozados congelados",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 288,
+                        "name": "Empanados y elaborados",
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Cereales y galletas",
+        "subcategories": [
+            {
+                "id": 78,
+                "name": "Cereales",
+                "subcategories": [
+                    {
+                        "id": 355,
+                        "name": "Cereales",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 356,
+                        "name": "Cereales integrales y muesli",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 357,
+                        "name": "Barritas de cereales",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 80,
+                "name": "Galletas",
+                "subcategories": [
+                    {
+                        "id": 821,
+                        "name": "Galletas desayuno",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 361,
+                        "name": "Galletas integrales y digestive",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 360,
+                        "name": "Con chocolate y rellenas",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 822,
+                        "name": "Galletas surtidas",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 79,
+                "name": "Tortitas",
+                "subcategories": [
+                    {
+                        "id": 358,
+                        "name": "Tortitas",
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Charcuter\u00eda y quesos",
+        "subcategories": [
+            {
+                "id": 48,
+                "name": "Aves y jam\u00f3n cocido",
+                "subcategories": [
+                    {
+                        "id": 292,
+                        "name": "Pavo y otros",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 293,
+                        "name": "Jam\u00f3n cocido",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 52,
+                "name": "Bac\u00f3n y salchichas",
+                "subcategories": [
+                    {
+                        "id": 303,
+                        "name": "Bac\u00f3n",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 304,
+                        "name": "Salchichas",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 49,
+                "name": "Chopped y mortadela",
+                "subcategories": [
+                    {
+                        "id": 823,
+                        "name": "Chopped",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 296,
+                        "name": "Mortadela",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 51,
+                "name": "Embutido curado",
+                "subcategories": [
+                    {
+                        "id": 301,
+                        "name": "Salchich\u00f3n",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 824,
+                        "name": "Chorizo",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 302,
+                        "name": "Lomo y otros",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 50,
+                "name": "Jam\u00f3n serrano",
+                "subcategories": [
+                    {
+                        "id": 298,
+                        "name": "Jam\u00f3n serrano",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 58,
+                "name": "Pat\u00e9 y sobrasada",
+                "subcategories": [
+                    {
+                        "id": 314,
+                        "name": "Pat\u00e9",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 315,
+                        "name": "Sobrasada",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 54,
+                "name": "Queso curado, semicurado y tierno",
+                "subcategories": [
+                    {
+                        "id": 309,
+                        "name": "Queso curado",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 825,
+                        "name": "Queso semicurado",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 307,
+                        "name": "Queso tierno",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 56,
+                "name": "Queso lonchas, rallado y en porciones",
+                "subcategories": [
+                    {
+                        "id": 310,
+                        "name": "Queso lonchas",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 312,
+                        "name": "Queso rallado",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 311,
+                        "name": "Queso en porciones",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 53,
+                "name": "Queso untable y fresco",
+                "subcategories": [
+                    {
+                        "id": 306,
+                        "name": "Queso untable",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 305,
+                        "name": "Queso fresco",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 313,
+                        "name": "Queso roquefort, camembert y cabra",
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Congelados",
+        "subcategories": [
+            {
+                "id": 147,
+                "name": "Arroz y pasta",
+                "subcategories": [
+                    {
+                        "id": 509,
+                        "name": "Arroz",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 510,
+                        "name": "Pasta",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 148,
+                "name": "Carne",
+                "subcategories": [
+                    {
+                        "id": 511,
+                        "name": "Carne",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 154,
+                "name": "Helados",
+                "subcategories": [
+                    {
+                        "id": 894,
+                        "name": "Bombones",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 893,
+                        "name": "Cucuruchos",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 869,
+                        "name": "Granizados y helados de hielo",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 522,
+                        "name": "Tarrinas",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 863,
+                        "name": "Barras de helado y barquillos",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 155,
+                "name": "Hielo",
+                "subcategories": [
+                    {
+                        "id": 524,
+                        "name": "Hielo",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 150,
+                "name": "Marisco",
+                "subcategories": [
+                    {
+                        "id": 516,
+                        "name": "Marisco",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 887,
+                        "name": "Marisco de concha y otros",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 149,
+                "name": "Pescado",
+                "subcategories": [
+                    {
+                        "id": 513,
+                        "name": "Pescado",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 151,
+                "name": "Pizzas",
+                "subcategories": [
+                    {
+                        "id": 517,
+                        "name": "Pizzas",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 861,
+                        "name": "Base de pizza",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 884,
+                "name": "Rebozados",
+                "subcategories": [
+                    {
+                        "id": 512,
+                        "name": "Carne rebozada",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 514,
+                        "name": "Pescado rebozado",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 886,
+                        "name": "Verdura rebozada y otros",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 152,
+                "name": "Tartas y churros",
+                "subcategories": [
+                    {
+                        "id": 518,
+                        "name": "Tartas",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 859,
+                        "name": "Tartas infantiles",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 860,
+                        "name": "Churros",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 145,
+                "name": "Verdura",
+                "subcategories": [
+                    {
+                        "id": 826,
+                        "name": "Fruta",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 504,
+                        "name": "Verdura",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 507,
+                        "name": "Patatas",
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Conservas, caldos y cremas",
+        "subcategories": [
+            {
+                "id": 122,
+                "name": "At\u00fan y otras conservas de pescado",
+                "subcategories": [
+                    {
+                        "id": 450,
+                        "name": "At\u00fan",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 864,
+                        "name": "Bonito",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 451,
+                        "name": "Caballa y melva",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 455,
+                        "name": "Sardinas",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 457,
+                        "name": "Otras conservas de pescado",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 123,
+                "name": "Berberechos y mejillones",
+                "subcategories": [
+                    {
+                        "id": 454,
+                        "name": "Berberechos y almejas",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 452,
+                        "name": "Mejillones",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 127,
+                "name": "Conservas de verdura y frutas",
+                "subcategories": [
+                    {
+                        "id": 467,
+                        "name": "Conservas verdura",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 468,
+                        "name": "Conservas fruta",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 130,
+                "name": "Gazpacho y cremas",
+                "subcategories": [
+                    {
+                        "id": 473,
+                        "name": "Gazpacho y salmorejo",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 472,
+                        "name": "Cremas y pur\u00e9",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 129,
+                "name": "Sopa y caldo",
+                "subcategories": [
+                    {
+                        "id": 471,
+                        "name": "Sopa",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 469,
+                        "name": "Caldo l\u00edquido",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 470,
+                        "name": "Caldo en pastillas",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 126,
+                "name": "Tomate",
+                "subcategories": [
+                    {
+                        "id": 460,
+                        "name": "Tomate",
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Cuidado del cabello",
+        "subcategories": [
+            {
+                "id": 201,
+                "name": "Acondicionador y mascarilla",
+                "subcategories": [
+                    {
+                        "id": 642,
+                        "name": "Acondicionador",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 643,
+                        "name": "Mascarilla",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 644,
+                        "name": "S\u00e9rum y otros",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 199,
+                "name": "Champ\u00fa",
+                "subcategories": [
+                    {
+                        "id": 638,
+                        "name": "Champ\u00fa",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 639,
+                        "name": "Champ\u00fa anticaspa",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 641,
+                        "name": "Champ\u00fa infantil",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 203,
+                "name": "Coloraci\u00f3n cabello",
+                "subcategories": [
+                    {
+                        "id": 649,
+                        "name": "Coloraci\u00f3n color moreno",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 650,
+                        "name": "Coloraci\u00f3n color casta\u00f1o",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 648,
+                        "name": "Coloraci\u00f3n color caoba",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 651,
+                        "name": "Coloraci\u00f3n color rubio",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 659,
+                        "name": "Mechas y superaclarante",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 660,
+                        "name": "Coloraci\u00f3n hombre",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 658,
+                        "name": "Retoca ra\u00edces",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 661,
+                        "name": "Accesorios",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 202,
+                "name": "Fijaci\u00f3n cabello",
+                "subcategories": [
+                    {
+                        "id": 646,
+                        "name": "Espuma y laca",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 647,
+                        "name": "Gomina y cera",
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Cuidado facial y corporal",
+        "subcategories": [
+            {
+                "id": 192,
+                "name": "Afeitado y cuidado para hombre",
+                "subcategories": [
+                    {
+                        "id": 622,
+                        "name": "Espuma de afeitar",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 827,
+                        "name": "After shave",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 623,
+                        "name": "Maquinillas de afeitar",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 806,
+                        "name": "Recambios maquinilla de afeitar",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 625,
+                        "name": "Crema y gel de cara",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 189,
+                "name": "Cuidado corporal",
+                "subcategories": [
+                    {
+                        "id": 610,
+                        "name": "Crema y aceite para el cuerpo",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 613,
+                        "name": "Crema manos",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 828,
+                        "name": "Crema pies",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 614,
+                        "name": "Toallitas",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 185,
+                "name": "Cuidado e higiene facial",
+                "subcategories": [
+                    {
+                        "id": 595,
+                        "name": "Limpieza de cara",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 597,
+                        "name": "Crema de cara",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 598,
+                        "name": "Contorno de ojos",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 785,
+                        "name": "S\u00e9rum y ampollas",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 191,
+                "name": "Depilaci\u00f3n",
+                "subcategories": [
+                    {
+                        "id": 620,
+                        "name": "Bandas, cera y crema",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 621,
+                        "name": "Cuchilla",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 188,
+                "name": "Desodorante",
+                "subcategories": [
+                    {
+                        "id": 608,
+                        "name": "Desodorante roll on y stick",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 607,
+                        "name": "Desodorante Spray",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 609,
+                        "name": "Otros desodorantes",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 187,
+                "name": "Gel y jab\u00f3n de manos",
+                "subcategories": [
+                    {
+                        "id": 604,
+                        "name": "Gel",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 605,
+                        "name": "Jab\u00f3n de manos",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 606,
+                        "name": "Esponjas",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 186,
+                "name": "Higiene bucal",
+                "subcategories": [
+                    {
+                        "id": 601,
+                        "name": "Pasta de dientes",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 600,
+                        "name": "Cepillo de dientes",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 602,
+                        "name": "Colutorio e hilo dental",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 190,
+                "name": "Higiene \u00edntima",
+                "subcategories": [
+                    {
+                        "id": 615,
+                        "name": "Compresas",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 616,
+                        "name": "Protegeslips",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 617,
+                        "name": "Tampones",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 619,
+                        "name": "Pa\u00f1ales para adulto",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 618,
+                        "name": "Toallitas y gel",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 194,
+                "name": "Manicura y pedicura",
+                "subcategories": [
+                    {
+                        "id": 626,
+                        "name": "Laca de u\u00f1as",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 628,
+                        "name": "Cuidado de u\u00f1as y complementos",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 196,
+                "name": "Perfume y colonia",
+                "subcategories": [
+                    {
+                        "id": 630,
+                        "name": "Perfume y colonia mujer",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 835,
+                        "name": "Lotes mujer",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 634,
+                        "name": "Perfume y colonia hombre",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 836,
+                        "name": "Lotes hombre",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 636,
+                        "name": "Colonia infantil",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 198,
+                "name": "Protector solar y aftersun",
+                "subcategories": [
+                    {
+                        "id": 637,
+                        "name": "Protector solar y aftersun",
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Fitoterapia y parafarmacia",
+        "subcategories": [
+            {
+                "id": 213,
+                "name": "Fitoterapia",
+                "subcategories": [
+                    {
+                        "id": 685,
+                        "name": "Fitoterapia",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 214,
+                "name": "Parafarmacia",
+                "subcategories": [
+                    {
+                        "id": 686,
+                        "name": "Botiqu\u00edn",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 687,
+                        "name": "Preservativos",
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Fruta y verdura",
+        "subcategories": [
+            {
+                "id": 27,
+                "name": "Fruta",
+                "subcategories": [
+                    {
+                        "id": 853,
+                        "name": "Pl\u00e1tano y uva",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 251,
+                        "name": "Manzana y pera",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 249,
+                        "name": "Mel\u00f3n y sand\u00eda",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 247,
+                        "name": "C\u00edtricos",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 250,
+                        "name": "Fruta tropical",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 253,
+                        "name": "Otras frutas",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 28,
+                "name": "Lechuga y ensalada preparada",
+                "subcategories": [
+                    {
+                        "id": 254,
+                        "name": "Lechuga",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 255,
+                        "name": "Ensalada preparada",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 29,
+                "name": "Verdura",
+                "subcategories": [
+                    {
+                        "id": 854,
+                        "name": "Patata",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 256,
+                        "name": "Cebolla y ajo",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 855,
+                        "name": "Tomate",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 257,
+                        "name": "Pepino y zanahoria",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 857,
+                        "name": "Calabac\u00edn y pimiento",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 856,
+                        "name": "Repollo y col",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 262,
+                        "name": "Setas y champi\u00f1ones",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 269,
+                        "name": "Hierbas arom\u00e1ticas",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 268,
+                        "name": "Otras verduras y hortalizas",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 267,
+                        "name": "Verduras al vapor",
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Huevos, leche y mantequilla",
+        "subcategories": [
+            {
+                "id": 77,
+                "name": "Huevos",
+                "subcategories": [
+                    {
+                        "id": 354,
+                        "name": "Huevos",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 72,
+                "name": "Leche y bebidas vegetales",
+                "subcategories": [
+                    {
+                        "id": 343,
+                        "name": "Leche semidesnatada",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 344,
+                        "name": "Leche desnatada",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 342,
+                        "name": "Leche entera",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 347,
+                        "name": "Bebidas vegetales",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 350,
+                        "name": "Batidos",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 348,
+                        "name": "Leche Infantil",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 799,
+                        "name": "Leche condensada y otros",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 75,
+                "name": "Mantequilla y margarina",
+                "subcategories": [
+                    {
+                        "id": 351,
+                        "name": "Mantequilla",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 352,
+                        "name": "Margarina",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 353,
+                        "name": "Nata",
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Limpieza y hogar",
+        "subcategories": [
+            {
+                "id": 226,
+                "name": "Detergente y suavizante ropa",
+                "subcategories": [
+                    {
+                        "id": 722,
+                        "name": "Detergente l\u00edquido y gel",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 723,
+                        "name": "Detergente en polvo y monodosis",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 725,
+                        "name": "Detergente lavado a mano",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 730,
+                        "name": "Quitamanchas",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 728,
+                        "name": "Activador y antical lavadora",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 727,
+                        "name": "Suavizante",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 732,
+                        "name": "Planchado",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 237,
+                "name": "Estropajo, bayeta y guantes",
+                "subcategories": [
+                    {
+                        "id": 752,
+                        "name": "Estropajo",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 753,
+                        "name": "Bayeta",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 754,
+                        "name": "Guantes",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 241,
+                "name": "Insecticida y ambientador",
+                "subcategories": [
+                    {
+                        "id": 876,
+                        "name": "Insecticida spray",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 877,
+                        "name": "Insecticida el\u00e9ctrico y otros",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 872,
+                        "name": "Ambientador spray",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 870,
+                        "name": "Ambientador el\u00e9ctrico",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 871,
+                        "name": "Ambientador autom\u00e1tico",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 873,
+                        "name": "Ambientador coche",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 875,
+                        "name": "Ambientador decorativo y otros",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 874,
+                        "name": "Absorbeolores y antihumedad",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 234,
+                "name": "Lej\u00eda y l\u00edquidos fuertes",
+                "subcategories": [
+                    {
+                        "id": 729,
+                        "name": "Lej\u00eda",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 745,
+                        "name": "Amon\u00edaco y salfum\u00e1n",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 747,
+                        "name": "Tratamiento piscina",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 235,
+                "name": "Limpiacristales",
+                "subcategories": [
+                    {
+                        "id": 748,
+                        "name": "Limpiacristales",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 233,
+                "name": "Limpiahogar y friegasuelos",
+                "subcategories": [
+                    {
+                        "id": 742,
+                        "name": "Friegasuelos",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 743,
+                        "name": "Limpiahogar",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 231,
+                "name": "Limpieza ba\u00f1o y WC",
+                "subcategories": [
+                    {
+                        "id": 738,
+                        "name": "Limpieza ba\u00f1o y WC",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 230,
+                "name": "Limpieza cocina",
+                "subcategories": [
+                    {
+                        "id": 736,
+                        "name": "Limpieza cocina",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 232,
+                "name": "Limpieza muebles y multiusos",
+                "subcategories": [
+                    {
+                        "id": 740,
+                        "name": "Limpieza muebles",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 741,
+                        "name": "Multiusos y otros",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 229,
+                "name": "Limpieza vajilla",
+                "subcategories": [
+                    {
+                        "id": 734,
+                        "name": "Limpiavajilla a mano",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 735,
+                        "name": "Limpiavajilla a m\u00e1quina",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 243,
+                "name": "Menaje y conservaci\u00f3n de alimentos",
+                "subcategories": [
+                    {
+                        "id": 764,
+                        "name": "Herm\u00e9ticos y moldes",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 763,
+                        "name": "Papel y bolsas de conservaci\u00f3n",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 772,
+                        "name": "Cubiertos, vajilla y mantel",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 777,
+                        "name": "Encendedores, velas y carb\u00f3n",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 238,
+                "name": "Papel higi\u00e9nico y celulosa",
+                "subcategories": [
+                    {
+                        "id": 838,
+                        "name": "Servilletas",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 756,
+                        "name": "Rollo cocina",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 755,
+                        "name": "Papel higi\u00e9nico",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 759,
+                        "name": "Pa\u00f1uelos",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 757,
+                        "name": "Toallitas",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 239,
+                "name": "Pilas y bolsas de basura",
+                "subcategories": [
+                    {
+                        "id": 781,
+                        "name": "Pilas",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 761,
+                        "name": "Bolsas de basura",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 244,
+                "name": "Utensilios de limpieza y calzado",
+                "subcategories": [
+                    {
+                        "id": 751,
+                        "name": "Fregonas, escobas y mopas",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 881,
+                        "name": "Cubos y barre\u00f1os",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 731,
+                        "name": "Otros utensilios de limpieza",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 779,
+                        "name": "Limpieza de calzado",
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Maquillaje",
+        "subcategories": [
+            {
+                "id": 206,
+                "name": "Bases de maquillaje y corrector",
+                "subcategories": [
+                    {
+                        "id": 666,
+                        "name": "Maquillaje fluido",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 665,
+                        "name": "Maquillaje compacto",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 671,
+                        "name": "Correctores y prebase",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 207,
+                "name": "Colorete y polvos",
+                "subcategories": [
+                    {
+                        "id": 674,
+                        "name": "Colorete",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 673,
+                        "name": "Polvos",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 208,
+                "name": "Labios",
+                "subcategories": [
+                    {
+                        "id": 599,
+                        "name": "Cuidado",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 679,
+                        "name": "Perfilador labios",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 676,
+                        "name": "Pintalabios fijo",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 675,
+                        "name": "Pintalabios cremoso y brillos",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 677,
+                        "name": "Pintalabios mate",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 210,
+                "name": "Ojos",
+                "subcategories": [
+                    {
+                        "id": 682,
+                        "name": "Perfilador de ojos",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 888,
+                        "name": "Cejas",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 683,
+                        "name": "M\u00e1scara de pesta\u00f1as",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 680,
+                        "name": "Sombra de ojos",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 212,
+                "name": "Pinceles y brochas",
+                "subcategories": [
+                    {
+                        "id": 684,
+                        "name": "Pinceles y brochas",
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Marisco y pescado",
+        "subcategories": [
+            {
+                "id": 32,
+                "name": "Marisco",
+                "subcategories": [
+                    {
+                        "id": 272,
+                        "name": "Marisco",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 852,
+                        "name": "Marisco de concha",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 834,
+                        "name": "Surimi y otros",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 34,
+                "name": "Pescado congelado",
+                "subcategories": [
+                    {
+                        "id": 274,
+                        "name": "Pescado congelado",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 275,
+                        "name": "Pescado rebozado congelado",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 276,
+                        "name": "Sepia, pulpo y calamar congelado",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 31,
+                "name": "Pescado fresco",
+                "subcategories": [
+                    {
+                        "id": 811,
+                        "name": "Salm\u00f3n",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 809,
+                        "name": "Dorada",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 810,
+                        "name": "Lubina",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 816,
+                        "name": "Merluza",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 847,
+                        "name": "Bacalao",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 880,
+                        "name": "Corvina",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 808,
+                        "name": "Sepia, pulpo y calamar",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 815,
+                        "name": "Trucha",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 812,
+                        "name": "Lenguado",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 814,
+                        "name": "Boquer\u00f3n",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 848,
+                        "name": "Rodaballo",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 813,
+                        "name": "Sardina",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 851,
+                        "name": "Otros",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 36,
+                "name": "Salazones y ahumados",
+                "subcategories": [
+                    {
+                        "id": 278,
+                        "name": "Salazones",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 279,
+                        "name": "Ahumados",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 789,
+                "name": "Sushi",
+                "subcategories": [
+                    {
+                        "id": 790,
+                        "name": "Sushi",
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Mascotas",
+        "subcategories": [
+            {
+                "id": 222,
+                "name": "Gato",
+                "subcategories": [
+                    {
+                        "id": 715,
+                        "name": "Alimentaci\u00f3n h\u00fameda",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 716,
+                        "name": "Alimentaci\u00f3n seca",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 718,
+                        "name": "Aseo y cuidado",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 717,
+                        "name": "Snacks",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 221,
+                "name": "Perro",
+                "subcategories": [
+                    {
+                        "id": 711,
+                        "name": "Alimentaci\u00f3n h\u00fameda",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 712,
+                        "name": "Alimentaci\u00f3n seca",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 714,
+                        "name": "Aseo y cuidado",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 713,
+                        "name": "Snacks",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 225,
+                "name": "Otros",
+                "subcategories": [
+                    {
+                        "id": 720,
+                        "name": "P\u00e1jaro",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 721,
+                        "name": "Otros",
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Panader\u00eda y pasteler\u00eda",
+        "subcategories": [
+            {
+                "id": 65,
+                "name": "Boller\u00eda de horno",
+                "subcategories": [
+                    {
+                        "id": 330,
+                        "name": "Boller\u00eda dulce",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 331,
+                        "name": "Boller\u00eda salada",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 66,
+                "name": "Boller\u00eda envasada",
+                "subcategories": [
+                    {
+                        "id": 334,
+                        "name": "Boller\u00eda envasada",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 335,
+                        "name": "Pastelitos surtidos",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 69,
+                "name": "Harina y preparado reposter\u00eda",
+                "subcategories": [
+                    {
+                        "id": 337,
+                        "name": "Harina",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 339,
+                        "name": "Levadura y preparado reposter\u00eda",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 338,
+                        "name": "Masas",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 59,
+                "name": "Pan de horno",
+                "subcategories": [
+                    {
+                        "id": 316,
+                        "name": "Barra de pan",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 317,
+                        "name": "Pan de bocadillo",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 788,
+                        "name": "Pan rebanado",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 60,
+                "name": "Pan de molde y otras especialidades",
+                "subcategories": [
+                    {
+                        "id": 318,
+                        "name": "Pan de molde",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 320,
+                        "name": "Otros panes",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 321,
+                        "name": "Pan de hamburguesa y wrap",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 62,
+                "name": "Pan tostado y rallado",
+                "subcategories": [
+                    {
+                        "id": 322,
+                        "name": "Pan tostado",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 324,
+                        "name": "Pan rallado",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 323,
+                        "name": "Crakers y tartaletas",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 64,
+                "name": "Picos, rosquilletas y picatostes",
+                "subcategories": [
+                    {
+                        "id": 328,
+                        "name": "Picos",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 327,
+                        "name": "Rosquilletas",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 329,
+                        "name": "Picatostes",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 68,
+                "name": "Tartas y pasteles",
+                "subcategories": [
+                    {
+                        "id": 336,
+                        "name": "Tartas",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 858,
+                        "name": "Tartas infantiles",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 837,
+                        "name": "Pasteler\u00eda",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 71,
+                "name": "Velas y decoraci\u00f3n",
+                "subcategories": [
+                    {
+                        "id": 341,
+                        "name": "Velas",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 340,
+                        "name": "Decoraci\u00f3n",
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Pizzas y platos preparados",
+        "subcategories": [
+            {
+                "id": 897,
+                "name": "Listo para Comer",
+                "subcategories": [
+                    {
+                        "id": 878,
+                        "name": "Platos calientes",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 898,
+                        "name": "Platos fr\u00edos",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 138,
+                "name": "Pizzas",
+                "subcategories": [
+                    {
+                        "id": 491,
+                        "name": "Pizzas refrigeradas",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 492,
+                        "name": "Pizzas congeladas",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 862,
+                        "name": "Base de pizza",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 493,
+                        "name": "Roscas, quiche y baguettes",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 140,
+                "name": "Platos preparados calientes",
+                "subcategories": [
+                    {
+                        "id": 496,
+                        "name": "Pasta",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 839,
+                        "name": "Arroz",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 497,
+                        "name": "Carne",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 500,
+                        "name": "Tortilla",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 807,
+                        "name": "Fideos orientales",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 494,
+                        "name": "Platos de cuchara",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 498,
+                        "name": "Otros",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 142,
+                "name": "Platos preparados fr\u00edos",
+                "subcategories": [
+                    {
+                        "id": 503,
+                        "name": "Gazpacho y salmorejo",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 499,
+                        "name": "Ensaladilla",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 502,
+                        "name": "Hummus y otros",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 501,
+                        "name": "S\u00e1ndwich",
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Postres y yogures",
+        "subcategories": [
+            {
+                "id": 105,
+                "name": "B\u00edfidus",
+                "subcategories": [
+                    {
+                        "id": 409,
+                        "name": "B\u00edfidus de sabores",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 410,
+                        "name": "B\u00edfidus naturales",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 110,
+                "name": "Flan y natillas",
+                "subcategories": [
+                    {
+                        "id": 417,
+                        "name": "Flan",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 418,
+                        "name": "Natillas",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 111,
+                "name": "Gelatina y otros postres",
+                "subcategories": [
+                    {
+                        "id": 787,
+                        "name": "Gelatina",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 419,
+                        "name": "Otros postres",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 106,
+                "name": "Postres de soja",
+                "subcategories": [
+                    {
+                        "id": 411,
+                        "name": "Postres de soja",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 103,
+                "name": "Yogures desnatados",
+                "subcategories": [
+                    {
+                        "id": 407,
+                        "name": "Yogures desnatados",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 109,
+                "name": "Yogures griegos",
+                "subcategories": [
+                    {
+                        "id": 416,
+                        "name": "Yogures griegos",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 108,
+                "name": "Yogures l\u00edquidos",
+                "subcategories": [
+                    {
+                        "id": 413,
+                        "name": "Yogures l\u00edquidos",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 414,
+                        "name": "L-Casei",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 866,
+                        "name": "Colesterol y otros",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 104,
+                "name": "Yogures naturales y sabores",
+                "subcategories": [
+                    {
+                        "id": 867,
+                        "name": "Yogures naturales",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 408,
+                        "name": "Yogures de sabores",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 107,
+                "name": "Yogures y postres infantiles",
+                "subcategories": [
+                    {
+                        "id": 412,
+                        "name": "Yogures y postres infantiles",
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Zumos",
+        "subcategories": [
+            {
+                "id": 99,
+                "name": "Fruta variada",
+                "subcategories": [
+                    {
+                        "id": 404,
+                        "name": "Fruta + leche",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 403,
+                        "name": "Fruta variada y otros sabores",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 405,
+                        "name": "Smoothie",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 100,
+                "name": "Melocot\u00f3n y pi\u00f1a",
+                "subcategories": [
+                    {
+                        "id": 398,
+                        "name": "Melocot\u00f3n",
+                        "subcategories": []
+                    },
+                    {
+                        "id": 397,
+                        "name": "Pi\u00f1a",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 143,
+                "name": "Naranja",
+                "subcategories": [
+                    {
+                        "id": 396,
+                        "name": "Naranja",
+                        "subcategories": []
+                    }
+                ]
+            },
+            {
+                "id": 98,
+                "name": "Tomate y otros sabores",
+                "subcategories": [
+                    {
+                        "id": 101,
+                        "name": "Otros sabores",
+                        "subcategories": []
+                    }
+                ]
+            }
+        ]
+    }
+]
