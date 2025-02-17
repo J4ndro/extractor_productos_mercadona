@@ -1,4 +1,7 @@
-const CategoryTable = {
+function CategoryTable () {
+
+  return {
+
     oninit: (vnode) => {
      
       vnode.state.categories = [];
@@ -9,7 +12,7 @@ const CategoryTable = {
 
       m.request({
         method: "GET",
-        url: `products_output.json?page=${vnode.state.page}&limit=${vnode.state.categoriesPerPage}`, 
+        url: `products_output.json`, 
       })
 
       .then((result) => {
@@ -116,11 +119,14 @@ const CategoryTable = {
         m("button", {
 
           onclick: () => vnode.state.loading ? null : vnode.loadMore(vnode)
-          
+
         }, vnode.state.loading ? "Cargando..." : "Cargar más")
       ]);
     }
-  };
+
+  }
+
+};
   
-  m.mount(document.body, CategoryTable);
+  m.mount(document.body, CategoryTable());
   
